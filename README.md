@@ -10,13 +10,6 @@
 
 <h3 align="center">💻 Full Stack Developer<br>MERN Stack | Scalable Web Applications | Clean Architecture</h3>
 
-###
-
-<div align="center">
- <img height="206" src="https://your-image-link-here.png" />
-</div>
-
-###
 
 <h2 align="left">🧾 About Me</h2>
 
@@ -126,9 +119,3 @@ Bachelor of Science in Software Engineering
 </div>
 
 ###
-
-Isko Use Krein
-
-Update krein mein phr dekh kr dubara krta update
-
-Seen by Mutahar Hashmi at 6:27 PM.
