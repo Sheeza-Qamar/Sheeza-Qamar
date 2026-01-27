@@ -1,117 +1,134 @@
-# Hi, I’m SHEEZA QAMAR 👋
+<div>
+ <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
-> Passionate builder. Open-source enthusiast. Lifelong learner.
+###
 
----
+<h2 align="center">Hi, I am Sheeza Qamar 👋</h2>
 
-## 🚀 About Me
-I’m Sheeza Qamar — a Full Stack Web & App Developer with experience in modern artificial and machine learning technologies. I enjoy programming, learning new tools, and sharpening my skills whenever I get a chance. I aim to be a valuable member of the tech industry by contributing practical solutions and continuously learning.
+###
 
-- 🔭 I’m currently working on: Projects combining web & mobile apps with ML-enabled features
-- 🌱 I’m learning: **Agentic AI**
-- 👯 I’m open to collaborating on: Full-stack web apps, mobile apps, and ML-powered products
-- 💬 Ask me about: Building scalable web/mobile apps, integrating ML models, and end-to-end product development
-- ⚡ Fun fact: I love trying new technologies and turning ideas into polished apps
+<h3 align="center">💻 Full Stack Developer<br>MERN Stack | Scalable Web Applications | Clean Architecture</h3>
 
+###
 
-Contact
-- Email: ssheezavirk@gmail.com
-- Phone: +92-3481815216
-- LinkedIn: [sheeza-qamar](https://www.linkedin.com/in/sheeza-qamar/)
-- Portfolio: [sheeza-portfolio.vercel.app](https://sheeza-portfolio.vercel.app/)
-- GitHub: [github.com/Sheeza-Qamar](https://github.com/Sheeza-Qamar)
+<div align="center">
+ <img height="206" src="https://your-image-link-here.png" />
+</div>
 
----
+###
 
-## 🛠️ Top Skills 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+<h2 align="left">🧾 About Me</h2>
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000000&style=flat-square) 
-  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000000&style=flat-square)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+###
 
-- ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square) 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+<p align="left">
+I am a Full Stack Developer with a strong focus on building scalable, high-performance web applications using modern JavaScript frameworks and backend technologies. I specialize in developing end-to-end solutions — from intuitive user interfaces to secure, efficient backend APIs and databases. My experience covers frontend development, backend logic, API design, database modeling, and deployment. I emphasize clean code, maintainability, and performance while delivering user-centric digital products. I continuously enhance my skills through hands-on projects and real-world problem solving, with a clear goal of building reliable and impactful software solutions.
+</p>
 
-- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-5865F2?logo=googlecloud&logoColor=white&style=flat-square)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) 
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+###
 
-Other languages & tools:  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square)
+<h2 align="left">📈 GitHub Stats & Activity</h2>
 
----
+###
 
-## 🧾 Experience
-Freelancing
-- Developed REST APIs and backend business logic using Node.js and Express. (Nov 2022 – Jul 2023)
-- Designed UI screens in Figma and implemented front-end components using React.js. (Aug 2024 – Sep 2024)
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SheezaQamar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
 
----
+###
 
-## 🎓 Education
-Bachelor of Computer Science  
-COMSATS University, Lahore  
-CGPA: 3.52 / 4.0
+<h2 align="left">💼 Work Experience</h2>
 
----
+###
 
-## ✨ Featured Projects
-Here are a few projects I built. 
+<p align="left">
+• Full Stack Developer<br>
+Freelance / Project-Based (2024 – Present)<br><br>
+Developed full-stack web applications using React, Node.js, Express, and MongoDB.– Designed RESTful APIs and integrated frontend with backend services.– Implemented authentication, role-based access, and database optimization.– Deployed applications using modern DevOps practices.– Collaborated with clients to translate requirements into functional solutions.
+</p>
 
-- AI Dermatologist Website (2nd Poster Position – Winner) — Technologies: MERN, Socket.io, MobileNetV2, AI Chatbot  
-  • Full-stack system with three user roles (Admin, Doctor, Patient).  
-  • Admin reviews/approves doctor registrations; Doctors manage profiles, appointments, and chat via Socket.io.  
-  • Patients book/cancel appointments and receive email confirmations.  
-  • AI-based skin disease detection for 8 conditions using a trained MobileNetV2 model, and medicine recommendations using web scrapping.
-  • Extras: AI chatbot, notifications, reviews & ratings, FAQ.
+###
 
-- Quran Reading App — Technologies: React Native, AsyncStorage, REST API  
-  • Optimized mobile app fetching dynamic Quran data (Surahs & Ayahs + translations).  
-  • Search, offline access via AsyncStorage, and customizable font/theme settings.
+<h2 align="left">🧩 Skills</h2>
 
-- Recipe Finder Website — Technologies: HTML, CSS, JavaScript, Bootstrap  
-  • Responsive recipe-finder with search, filters, pagination and details view.  
-  • Processes 1000+ recipes from CSV and deployed on Vercel.
+###
 
-- Doctor Appointment App — Technologies: React Native, Supabase, Express  
-  • Mobile booking app for patients to schedule appointments with registered doctors.  
-  • Supabase for auth & storage; secured API routes and performance improvements via Express middleware.
+<p align="left">
+🖥️ Frontend Development: React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)<br>
+⚙️ Backend Development: Node.js, Express.js, REST APIs, Authentication & Authorization<br>
+🗄️ Databases: MongoDB, MySQL, PostgreSQL<br>
+🔄 Tools & DevOps: Git/GitHub, Docker (Basics), CI/CD fundamentals, Linux<br>
+🎯 Core Strengths: Clean code, scalability, performance optimization, problem-solving
+</p>
 
-Other smaller/foundational projects: Face detection system, Traffic car counting, Amazon clone, Tic-Tac-Toe game
+###
 
+<h2 align="left">🎖️ Certifications</h2>
 
-## 💡 How to Work With Me
-- I prefer asynchronous communication (issues/PRs + Slack/Discord).  
-- I value clear issues, reproducible steps, and tests with PRs.  
-- I enjoy pairing sessions for design and tricky bugs.
+###
 
----
+<p align="left">
+• Full Stack Web Development Certification<br>
+• JavaScript & React Advanced Concepts<br>
+• Backend Development with Node.js & Express<br>
+• Git & GitHub Version Control
+</p>
 
-## 🌱 Currently Learning
-- Agentic AI
+###
 
----
+<h2 align="left">🛠 Tech Stack</h2>
 
-## 🎯 Hobbies & Interests
-- Learning new technologies  
-- Baking  
-- Crafting  
-- Badminton  
-- Scrolling
+###
 
----
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+</div>
 
-## ❤️ Support / Sponsor
-If you find my work helpful, consider:
-- ⭐ Starring projects you enjoy
-- Sharing feedback or feature ideas
-- Sponsoring via GitHub Sponsors 
+###
 
----
+<h2 align="left">🎓 Education</h2>
 
-Thanks for visiting my profile — I’ll keep this README updated with the things I build and learn.
+###
 
-Made with ❤️ by Sheeza Qamar  
+<p align="left">
+Bachelor of Science in Software Engineering
+</p>
+
+###
+
+<h2 align="left">🌐 Connect with Me</h2>
+
+###
+
+<div align="left">
+ <a href="mailto:sheezavirk@gmail.com" target="_blank">
+ <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+ </a>
+ <a href="https://www.linkedin.com/in/sheeza-qamar" target="_blank">
+ <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+ </a>
+ <a href="https://github.com/SheezaQamar" target="_blank">
+ <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35" />
+ </a>
+</div>
+
+###
+
+Isko Use Krein
+
+Update krein mein phr dekh kr dubara krta update
+
+Seen by Mutahar Hashmi at 6:27 PM.
