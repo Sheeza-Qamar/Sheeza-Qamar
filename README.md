@@ -21,14 +21,11 @@ I am a Full Stack Developer with a strong focus on building scalable, high-perfo
 
 ###
 
-<h2 align="left">📈 GitHub Stats & Activity</h2>
+## 📈 GitHub Stats & Activity
 
-###
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sheeza-Qamar&theme=dracula&cache_seconds=86400)
 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheeza-Qamar&theme=dracula" height="150" />
-</div>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheeza-Qamar&layout=compact&theme=dracula&cache_seconds=86400)
 ###
 
 <h2 align="left">💼 Work Experience</h2>
