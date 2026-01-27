@@ -23,7 +23,7 @@ Contact
 
 ---
 
-## 🛠️ Top Skills (with icons)
+## 🛠️ Top Skills 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
