@@ -13,10 +13,6 @@ I’m Sheeza Qamar — a Full Stack Web & App Developer with experience in moder
 - 💬 Ask me about: Building scalable web/mobile apps, integrating ML models, and end-to-end product development
 - ⚡ Fun fact: I love trying new technologies and turning ideas into polished apps
 
----
-
-## 🧭 Professional Summary
-I am a full stack Web and App developer with experience in modern artificial and machine learning technologies. I enjoy programming and am eager to learn new things to make my skills sharper. I want to become a valuable member of the computer industry that benefits from my skills and education.
 
 Contact
 - Email: ssheezavirk@gmail.com
