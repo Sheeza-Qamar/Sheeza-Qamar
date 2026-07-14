@@ -45,8 +45,8 @@ Developed full-stack web applications using React, Node.js, Express, and MongoDB
 ###
 
 <p align="left">
-🖥️ Frontend Development: React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)<br>
-⚙️ Backend Development: Node.js, Express.js, REST APIs, Authentication & Authorization<br>
+🖥️ Frontend Development: React.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)<br>
+⚙️ Backend Development: Spring-Boot Node.js, Express.js, REST APIs, Authentication & Authorization<br>
 🗄️ Databases: MongoDB, MySQL, PostgreSQL<br>
 🔄 Tools & DevOps: Git/GitHub, Docker (Basics), CI/CD fundamentals, Linux<br>
 🎯 Core Strengths: Clean code, scalability, performance optimization, problem-solving
@@ -94,7 +94,7 @@ Developed full-stack web applications using React, Node.js, Express, and MongoDB
 ###
 
 <p align="left">
-Bachelor of Science in Software Engineering
+Bachelor of Science in Computer Science 
 </p>
 
 ###
