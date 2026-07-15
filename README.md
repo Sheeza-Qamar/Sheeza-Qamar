@@ -43,8 +43,6 @@ I am a Full Stack Developer currently working at Pakistan Air Force, with prior 
 Developing full-stack applications with React, Spring Boot, and Keycloak-based authentication.<br><br>
 <b>- AI Agents & Automation Engineer — Daimboo Labs </b> <br>
 Built AI voice agents, automation pipelines, and workflow integrations using n8n, VAPI, and LLM APIs.<br><br>
-<b>- Freelance Full Stack Developer (Fiverr / Upwork) </b> <br>
-Delivered full-stack web apps and automation solutions for international clients — REST APIs, authentication, database design, and deployment.
 </p>
 
 ###
