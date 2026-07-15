@@ -8,22 +8,30 @@
 
 ###
 
-<h3 align="center">💻 Full Stack Developer<br>MERN Stack | Scalable Web Applications | Clean Architecture</h3>
-
+<h3 align="center">💻 Full Stack Developer<br>React | Spring Boot | Node.js | Scalable Web Applications</h3>
 
 <h2 align="left">🧾 About Me</h2>
 
 ###
 
 <p align="left">
-I am a Full Stack Developer with a strong focus on building scalable, high-performance web applications using modern JavaScript frameworks and backend technologies. I specialize in developing end-to-end solutions — from intuitive user interfaces to secure, efficient backend APIs and databases. My experience covers frontend development, backend logic, API design, database modeling, and deployment. I emphasize clean code, maintainability, and performance while delivering user-centric digital products. I continuously enhance my skills through hands-on projects and real-world problem solving, with a clear goal of building reliable and impactful software solutions.
+I am a Full Stack Developer currently working at Pakistan Air Force, with prior experience as an AI Agents & Automation Engineer at Daimboo Labs. I build end-to-end solutions spanning React frontends, Spring Boot and Node.js backends, and relational/NoSQL databases. I also work on AI automation — voice agents, document pipelines, and workflow automation using n8n, Make.com, and the OpenAI/Claude APIs. I hold a BS in Computer Science from COMSATS University Islamabad (Lahore Campus). I care about clean architecture, maintainability, and shipping practical, user-centric software.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SheezaQamar&label=Profile%20Views&color=ff6b00&style=flat" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/SheezaQamar?style=flat&color=orange" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/SheezaQamar?style=flat&color=blue" />
 </p>
 
 ###
 
 ## 📈 GitHub Stats & Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sheeza-Qamar&theme=dracula&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheezaQamar&theme=dracula&cache_seconds=86400)
+
 ###
 
 <h2 align="left">💼 Work Experience</h2>
@@ -31,9 +39,12 @@ I am a Full Stack Developer with a strong focus on building scalable, high-perfo
 ###
 
 <p align="left">
-• Full Stack Developer<br>
-Freelance / Project-Based (2024 – Present)<br><br>
-Developed full-stack web applications using React, Node.js, Express, and MongoDB.– Designed RESTful APIs and integrated frontend with backend services.– Implemented authentication, role-based access, and database optimization.– Deployed applications using modern DevOps practices.– Collaborated with clients to translate requirements into functional solutions.
+• Full Stack Developer — Pakistan Air Force (Current)<br>
+Building an enterprise health monitoring system; developing full-stack applications with React, Spring Boot, and Keycloak-based authentication.<br><br>
+• AI Agents & Automation Engineer — Daimboo Labs<br>
+Built AI voice agents, automation pipelines, and workflow integrations using n8n, VAPI, and LLM APIs.<br><br>
+• Freelance Full Stack Developer (Fiverr / Upwork)<br>
+Delivered full-stack web apps and automation solutions for international clients — REST APIs, authentication, database design, and deployment.
 </p>
 
 ###
@@ -44,23 +55,11 @@ Developed full-stack web applications using React, Node.js, Express, and MongoDB
 
 <p align="left">
 🖥️ Frontend Development: React.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)<br>
-⚙️ Backend Development: Spring-Boot Node.js, Express.js, REST APIs, Authentication & Authorization<br>
-🗄️ Databases: MongoDB, MySQL, PostgreSQL<br>
-🔄 Tools & DevOps: Git/GitHub, Docker (Basics), CI/CD fundamentals, Linux<br>
+⚙️ Backend Development: Spring Boot, Node.js, Express.js, REST APIs, Spring Security, JWT<br>
+🗄️ Databases: MySQL, Oracle, MongoDB, PostgreSQL<br>
+🤖 AI & Automation: n8n, Make.com, VAPI, OpenAI/Claude APIs<br>
+🔄 Tools & DevOps: Git/GitHub, Docker (Basics), CI/CD fundamentals, Linux, Railway, Vercel<br>
 🎯 Core Strengths: Clean code, scalability, performance optimization, problem-solving
-</p>
-
-###
-
-<h2 align="left">🎖️ Certifications</h2>
-
-###
-
-<p align="left">
-• Full Stack Web Development Certification<br>
-• JavaScript & React Advanced Concepts<br>
-• Backend Development with Node.js & Express<br>
-• Git & GitHub Version Control
 </p>
 
 ###
@@ -73,6 +72,8 @@ Developed full-stack web applications using React, Node.js, Express, and MongoDB
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
  <img width="12" />
@@ -92,7 +93,7 @@ Developed full-stack web applications using React, Node.js, Express, and MongoDB
 ###
 
 <p align="left">
-Bachelor of Science in Computer Science 
+BS Computer Science — COMSATS University Islamabad, Lahore Campus (CGPA 3.52/4.0)
 </p>
 
 ###
@@ -110,6 +111,9 @@ Bachelor of Science in Computer Science
  </a>
  <a href="https://github.com/SheezaQamar" target="_blank">
  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35" />
+ </a>
+ <a href="https://sheeza-portfolio.vercel.app" target="_blank">
+ <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="35" />
  </a>
 </div>
 
