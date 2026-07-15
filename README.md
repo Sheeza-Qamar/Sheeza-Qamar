@@ -15,7 +15,7 @@
 ###
 
 <p align="left">
-I am a Full Stack Developer currently working at Pakistan Air Force, with prior experience as an AI Agents & Automation Engineer at Daimboo Labs. I build end-to-end solutions spanning React frontends, Spring Boot and Node.js backends, and relational/NoSQL databases. I also work on AI automation — voice agents, document pipelines, and workflow automation using n8n, Make.com, and the OpenAI/Claude APIs. I hold a BS in Computer Science from COMSATS University Islamabad (Lahore Campus). I care about clean architecture, maintainability, and shipping practical, user-centric software.
+I am a Full Stack Developer currently working at Pakistan Air Force, with prior experience as an AI Agents & Automation Engineer at Daimboo Labs. I build end-to-end solutions spanning React frontends, Spring Boot and Node.js backends, and relational/NoSQL databases. I also work on AI automation voice agents, document pipelines, and workflow automation using n8n, Make.com, and the OpenAI/Claude APIs. I hold a BS in Computer Science from COMSATS University Islamabad (Lahore Campus). I care about clean architecture, maintainability, and shipping practical, user-centric software.
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ I am a Full Stack Developer currently working at Pakistan Air Force, with prior 
 
 <p align="left">
 - Full Stack Developer — Pakistan Air Force (Current)<br>
-Building an enterprise health monitoring system; developing full-stack applications with React, Spring Boot, and Keycloak-based authentication.<br><br>
+Developing full-stack applications with React, Spring Boot, and Keycloak-based authentication.<br><br>
 - AI Agents & Automation Engineer — Daimboo Labs<br>
 Built AI voice agents, automation pipelines, and workflow integrations using n8n, VAPI, and LLM APIs.<br><br>
 - Freelance Full Stack Developer (Fiverr / Upwork)<br>
@@ -93,7 +93,8 @@ Delivered full-stack web apps and automation solutions for international clients
 ###
 
 <p align="left">
-BS Computer Science — COMSATS University Islamabad, Lahore Campus (CGPA 3.52/4.0)
+BS Computer Science (CGPA = 3.52/4.0)
+COMSATS University Islamabad, Lahore Campus 
 </p>
 
 ###
@@ -112,7 +113,7 @@ BS Computer Science — COMSATS University Islamabad, Lahore Campus (CGPA 3.52/4
  <a href="https://github.com/Sheeza-Qamar" target="_blank">
  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35" />
  </a>
- <a href="https://sheeza-portfolio.vercel.app" target="_blank">
+ <a href="https://www.sheezatech.online/" target="_blank">
  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="35" />
  </a>
 </div>
