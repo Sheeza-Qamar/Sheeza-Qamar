@@ -19,18 +19,18 @@ I am a Full Stack Developer currently working at Pakistan Air Force, with prior 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SheezaQamar&label=Profile%20Views&color=ff6b00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Sheeza-Qamar&label=Profile%20Views&color=ff6b00&style=flat" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/SheezaQamar?style=flat&color=orange" />
+  <img src="https://img.shields.io/github/stars/Sheeza-Qamar?style=flat&color=orange" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/SheezaQamar?style=flat&color=blue" />
+  <img src="https://img.shields.io/github/followers/Sheeza-Qamar?style=flat&color=blue" />
 </p>
 
 ###
 
 ## 📈 GitHub Stats & Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheezaQamar&theme=dracula&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sheeza-Qamar&theme=dracula&cache_seconds=86400)
 
 ###
 
@@ -39,11 +39,11 @@ I am a Full Stack Developer currently working at Pakistan Air Force, with prior 
 ###
 
 <p align="left">
-• Full Stack Developer — Pakistan Air Force (Current)<br>
+- Full Stack Developer — Pakistan Air Force (Current)<br>
 Building an enterprise health monitoring system; developing full-stack applications with React, Spring Boot, and Keycloak-based authentication.<br><br>
-• AI Agents & Automation Engineer — Daimboo Labs<br>
+- AI Agents & Automation Engineer — Daimboo Labs<br>
 Built AI voice agents, automation pipelines, and workflow integrations using n8n, VAPI, and LLM APIs.<br><br>
-• Freelance Full Stack Developer (Fiverr / Upwork)<br>
+- Freelance Full Stack Developer (Fiverr / Upwork)<br>
 Delivered full-stack web apps and automation solutions for international clients — REST APIs, authentication, database design, and deployment.
 </p>
 
@@ -109,7 +109,7 @@ BS Computer Science — COMSATS University Islamabad, Lahore Campus (CGPA 3.52/4
  <a href="https://www.linkedin.com/in/sheeza-qamar" target="_blank">
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
  </a>
- <a href="https://github.com/SheezaQamar" target="_blank">
+ <a href="https://github.com/Sheeza-Qamar" target="_blank">
  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="35" />
  </a>
  <a href="https://sheeza-portfolio.vercel.app" target="_blank">
