@@ -55,8 +55,8 @@ Delivered full-stack web apps and automation solutions for international clients
 
 <p align="left">
 🖥️ Frontend Development: React.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)<br>
-⚙️ Backend Development: Spring Boot, Node.js, Express.js, REST APIs, Spring Security, JWT<br>
-🗄️ Databases: MySQL, Oracle, MongoDB, PostgreSQL<br>
+⚙️ Backend Development: Spring Boot, Node.js, Express.js, REST APIs<br>
+🗄️ Databases: MySQL, Oracle, SQL Server<br>
 🤖 AI & Automation: n8n, Make.com, VAPI, OpenAI/Claude APIs<br>
 🔄 Tools & DevOps: Git/GitHub, Docker (Basics), CI/CD fundamentals, Linux, Railway, Vercel<br>
 🎯 Core Strengths: Clean code, scalability, performance optimization, problem-solving
